@@ -1,0 +1,168 @@
+﻿{
+  "voiceList": [
+    {
+      "icon": "assets://light.png",
+      "index": 0,
+      "title": "灯光1",
+      "file": "f20f2933-5d7d-4d42-9803-a24193a5cd45"
+    },
+    {
+      "icon": "assets://light.png",
+      "index": 1,
+      "title": "灯光2",
+      "file": "22feeb67-5935-43ec-ab2d-2d08a0338d55"
+    },
+    {
+      "icon": "assets://light.png",
+      "index": 2,
+      "title": "灯光3",
+      "file": "2feaa221-ec35-4b62-a2e8-89728cd2ec07"
+    },
+    {
+      "icon": "assets://light.png",
+      "index": 3,
+      "title": "灯光4",
+      "file": "4d9abd08-486a-47e6-a213-46f243f26c53"
+    },
+    {
+      "icon": "assets://light.png",
+      "index": 4,
+      "title": "灯光5",
+      "file": "e55a4e20-fd35-4489-91ef-10297edd11f1"
+    },
+    {
+      "icon": "assets://light.png",
+      "index": 5,
+      "title": "灯光6",
+      "file": "c6fe6b26-c24f-49a6-b739-04cefc8b0187"
+    },
+    {
+      "icon": "assets://light.png",
+      "index": 6,
+      "title": "灯光7",
+      "file": "17334611-d882-4f24-9704-59460cd7f686"
+    },
+    {
+      "icon": "assets://light.png",
+      "index": 7,
+      "title": "灯光8",
+      "file": "cb9afefa-a2e8-48d3-89b4-caa506d08a25"
+    }
+  ],
+  "actionList": [
+    {
+      "icon": "assets://voice_0.png",
+      "index": 8,
+      "title": "考试准备",
+      "file": "3f8270ba-4da7-43c8-a3e3-c56f91630298"
+    },
+    {
+      "icon": "assets://voice_1.png",
+      "index": 9,
+      "title": "起步",
+      "file": "616cf711-6a35-4d67-b7bd-63bb32e2886a"
+    },
+    {
+      "icon": "assets://voice_3.png",
+      "index": 10,
+      "title": "变换车道",
+      "file": "1578339c-683e-4c0b-a492-9b7cf5e9f1ce"
+    },
+    {
+      "icon": "assets://voice_4.png",
+      "index": 11,
+      "title": "公共汽车站",
+      "file": "af14efd0-39d7-4e5b-bd0f-8d710e92efc4"
+    },
+    {
+      "icon": "assets://voice_5.png",
+      "index": 12,
+      "title": "通过学校",
+      "file": "210dc7c8-8113-4615-a705-10aee0f52646"
+    },
+    {
+      "icon": "assets://voice_6.png",
+      "index": 13,
+      "title": "直线行驶",
+      "file": "d28b883d-72bc-4cf5-b1e4-931c3eb009cd"
+    },
+    {
+      "icon": "assets://voice_2.png",
+      "index": 14,
+      "title": "路口直行",
+      "file": "2eac739f-8abc-47a0-9384-822da1d9cda8"
+    },
+    {
+      "icon": "assets://voice_7.png",
+      "index": 15,
+      "title": "路口左转",
+      "file": "d969796f-f58a-41a8-82f1-5c903e1941db"
+    },
+    {
+      "icon": "assets://voice_8.png",
+      "index": 16,
+      "title": "路口右转",
+      "file": "74228aac-9355-458d-9c44-76fd8f986a0f"
+    },
+    {
+      "icon": "assets://voice_9.png",
+      "index": 17,
+      "title": "百米加减档",
+      "file": "413ea4eb-1278-45ff-9e01-fa202c55af2c"
+    },
+    {
+      "icon": "assets://voice_10.png",
+      "index": 18,
+      "title": "会车",
+      "file": "4da9d098-d223-4005-9940-7d43f2e4a782"
+    },
+    {
+      "icon": "assets://voice_11.png",
+      "index": 19,
+      "title": "超车",
+      "file": "f91fc285-c9aa-45a3-9fe4-58e512b76546"
+    },
+    {
+      "icon": "assets://voice_12.png",
+      "index": 20,
+      "title": "减速",
+      "file": "8c32bbed-8abd-4697-882f-9fdacccae515"
+    },
+    {
+      "icon": "assets://voice_13.png",
+      "index": 21,
+      "title": "限速",
+      "file": "1c26a0fb-0feb-43db-ba96-d6429b0755ca"
+    },
+    {
+      "icon": "assets://voice_14.png",
+      "index": 22,
+      "title": "人行横道",
+      "file": "502f454f-85d5-423b-89c3-751050a2a092"
+    },
+    {
+      "icon": "assets://voice_15.png",
+      "index": 23,
+      "title": "人行横道-有行人通过",
+      "file": "bafbb50e-5935-4fbc-9176-76bf396068dc"
+    },
+    {
+      "icon": "assets://voice_16.png",
+      "index": 24,
+      "title": "隧道",
+      "file": "991348f2-453d-45d4-b477-08a40afaa398"
+    },
+    {
+      "icon": "assets://voice_17.png",
+      "index": 25,
+      "title": "掉头",
+      "file": "93877dd3-4744-483a-98f7-bcc7511d4e0a"
+    },
+    {
+      "icon": "assets://voice_18.png",
+      "index": 26,
+      "title": "靠边停车",
+      "file": "86913b68-32c3-426a-aa60-c0666b24f733"
+    }
+  ]
+}

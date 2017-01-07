@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http
+END
+QNHttpDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNHttpDelegate.h
+END
+QNHttpManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNHttpManager.h
+END
+QNResponseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNResponseInfo.h
+END
+QNUserAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNUserAgent.h
+END
+QNSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNSessionManager.h
+END
+QNHttpManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNHttpManager.m
+END
+QNResponseInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNResponseInfo.m
+END
+QNUserAgent.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNUserAgent.m
+END
+QNSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNSessionManager.m
+END
+QNDns.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNDns.h
+END
+QNDns.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Http/QNDns.m
+END

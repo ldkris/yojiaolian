@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail
+END
+CoachDetailVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailVC.h
+END
+CoachDetailCellTagTitle.xib
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellTagTitle.xib
+END
+CoachDetailCellTagTitle.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellTagTitle.h
+END
+CoachDetailVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailVC.m
+END
+CoachDetailCellTagTitle.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellTagTitle.m
+END
+CoachDetailCellPhoto.xib
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellPhoto.xib
+END
+CoachDetailCellSpace.xib
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellSpace.xib
+END
+CoachDetailCellInfo.xib
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellInfo.xib
+END
+CoachDetailCellPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellPhoto.h
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/.DS_Store
+END
+CoachDetailCellTags.xib
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellTags.xib
+END
+CoachDetailCellFee.xib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellFee.xib
+END
+CoachDetailCellInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellInfo.h
+END
+CoachDetailCellSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellSpace.h
+END
+CoachDetailCellTags.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellTags.h
+END
+CoachDetailCellPhoto.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellPhoto.m
+END
+CoachDetailCellFee.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellFee.h
+END
+CoachDetailCellSpace.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellSpace.m
+END
+CoachDetailCellInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellInfo.m
+END
+CoachDetailVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailVC.xib
+END
+CoachDetailCellTags.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellTags.m
+END
+CoachDetailCellFee.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/yojiaolian/Viewcontroller/coachDetail/CoachDetailCellFee.m
+END

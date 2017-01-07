@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS
+END
+QNDes.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNDes.h
+END
+QNResolverDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNResolverDelegate.h
+END
+QNRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNRecord.h
+END
+QNDnsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNDnsManager.h
+END
+QNHosts.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNHosts.h
+END
+QNHijackingDetectWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNHijackingDetectWrapper.h
+END
+QNResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNResolver.h
+END
+QNHex.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNHex.h
+END
+QNNetworkInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNNetworkInfo.h
+END
+HappyDNS.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/HappyDNS.h
+END
+QNDomain.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNDomain.h
+END
+QNDnspodEnterprise.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNDnspodEnterprise.h
+END
+QNDnspodFree.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Private/HappyDNS/QNDnspodFree.h
+END

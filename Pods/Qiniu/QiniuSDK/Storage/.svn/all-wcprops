@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage
+END
+QNResumeUpload.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNResumeUpload.m
+END
+QNUpToken.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNUpToken.m
+END
+QNConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNConfiguration.m
+END
+QNFormUpload.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNFormUpload.m
+END
+QNUploadOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNUploadOption.h
+END
+QNUploadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNUploadManager.h
+END
+QNUploadOption.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNUploadOption.m
+END
+QNUploadOption+Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNUploadOption+Private.h
+END
+QNUploadManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNUploadManager.m
+END
+QNResumeUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNResumeUpload.h
+END
+QNUpToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNUpToken.h
+END
+QNConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNConfiguration.h
+END
+QNFormUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Qiniu/QiniuSDK/Storage/QNFormUpload.h
+END

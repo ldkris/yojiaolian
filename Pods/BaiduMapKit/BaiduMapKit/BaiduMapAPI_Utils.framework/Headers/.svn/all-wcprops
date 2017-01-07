@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers
+END
+BMKFavPoiManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiManager.h
+END
+BMKNavigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKNavigation.h
+END
+BMKFavPoiInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiInfo.h
+END
+BMKOpenRoute.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKOpenRoute.h
+END
+BMKOpenPoiOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoiOption.h
+END
+BMKUtilsComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKUtilsComponent.h
+END
+BMKUtilsVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKUtilsVersion.h
+END
+BMKOpenPoi.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoi.h
+END
+BMKOpenRouteOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKOpenRouteOption.h
+END
+BMKOpenOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKOpenOption.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Utils.framework/Headers/BMKGeometry.h
+END

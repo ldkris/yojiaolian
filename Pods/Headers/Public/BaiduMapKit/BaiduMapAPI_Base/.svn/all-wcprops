@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Base
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Base/BMKTypes.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Base/BMKVersion.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Base/BMKUserLocation.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Base/BMKGeneralDelegate.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Base/BMKMapManager.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/yo/!svn/ver/7962/source/ios/coach/yojiaolian/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Base/BMKBaseComponent.h
+END
